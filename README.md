@@ -1,5 +1,9 @@
 # PLMACPred
 
+PLMACPred: Prediction of Anticancer Peptides based on Protein Language Model and Wavelet Denoising Transformation
+
+##Pipeline
+
 ###PLMACPred uses the following dependencies:
 
 MATLAB2018a *blast-2.6.0+
